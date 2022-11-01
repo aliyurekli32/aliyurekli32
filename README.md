@@ -1,6 +1,8 @@
 ### Hi there 👋
 <code> <a href="https://www.atlassian.com/software/jira"> <img alt="Jira" title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
  <code> <a href=""> <img alt="" title="" src="" height="42"></a></code>
+  <code> <a href="https://jquery.com"> <img alt="Jquerry" title="JQuerry" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" height="42"></a></code>
+
  <code> <a href="https://www.python.org"> <img alt="python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a></code>
  <code> <a href="https://sass-lang.com"> <img alt="Sass" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="42"></a></code>
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
