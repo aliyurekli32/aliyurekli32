@@ -5,11 +5,8 @@
   <code> <a href="https://reactjs.org"> <img alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="42"></a></code>
   <code> <a href="https://firebase.google.com"> <img alt="Firebase" title="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height="42"></a></code>
   <code> <a href="https://redux.js.org"> <img alt="Redux" title="Redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="42"></a></code>
-  
-  
+  <code> <a href="https://www.djangoproject.com"> <img alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" height="42"></a></code>
   <code> <a href="https://www.postman.com"> <img alt="postman" title="postman" src="https://api.ipfsbrowser.com/ipfs/get.php?hash=QmQzfaSYrKdQHAAA5Sgp9chaLfgSVqxmiXaKUCgDSF9neq" height="42"></a></code>
-  
-
  <code> <a href="https://www.python.org"> <img alt="python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a></code>
  <code> <a href="https://sass-lang.com"> <img alt="Sass" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="42"></a></code>
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
