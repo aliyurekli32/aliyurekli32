@@ -4,7 +4,7 @@
   <code> <a href="https://jquery.com"> <img alt="Jquerry" title="JQuerry" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" height="42"></a></code>
   <code> <a href="https://reactjs.org"> <img alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="42"></a></code>
   
-  <code> <a href="https://www.postman.com"> <img alt="postman" title="postman" src="https://ipfsbrowser.com/?hash=QmQ8Ujn5oW8LReWvBk31vWJYpSoDcSnkxEN3rBrpzCYLvW" height="42"></a></code>
+  <code> <a href="https://www.postman.com"> <img alt="postman" title="postman" src="https://api.ipfsbrowser.com/ipfs/get.php?hash=QmQzfaSYrKdQHAAA5Sgp9chaLfgSVqxmiXaKUCgDSF9neq" height="42"></a></code>
   
 
  <code> <a href="https://www.python.org"> <img alt="python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a></code>
