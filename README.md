@@ -1,6 +1,8 @@
 ### Hi there 👋
-<code> <a href="https://www.atlassian.com/software/jira"> <img alt="Jira" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
-
+<code> <a href="https://www.atlassian.com/software/jira"> <img alt="Jira" title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
+ <code> <a href=""> <img alt="" title="" src="" height="42"></a></code>
+ <code> <a href="https://www.python.org"> <img alt="python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a></code>
+ <code> <a href="https://sass-lang.com"> <img alt="Sass" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="42"></a></code>
 <code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
