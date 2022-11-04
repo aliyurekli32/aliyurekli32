@@ -25,7 +25,7 @@
 <details>
 <summary>My Projects</summary>
 
-| Rank | Languages |<details><summary>My Projects</summary><img src="[netflix_survey_form](https://imgur.com/a/iSKMbpk)" style="width: 500px;"></details>|        
+| Rank | Languages |<details><summary>My Projects</summary><img src="https://imgur.com/a/iSKMbpk" style="width: 500px;"></details>|        
 |-----:|-----------|                                                 |
 |     1| Javascript|                                                 |
 |     2| Python    |                                                 |
