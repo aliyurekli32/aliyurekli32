@@ -25,7 +25,7 @@
 <details>
 <summary>My Projects</summary>
 
-| Rank | Languages |<details><summary>My Projects</summary>![This is an image](https://gifyu.com/image/SEQbf)</details>|        
+| Rank | Languages |<details><summary>Survey Form Project</summary>![](https://media.giphy.com/media/IHbPWgjZmXmpmtWmOB/giphy.gif)</details>|        
 |-----:|-----------|                                                 |
 |     1| Javascript|                                                 |
 |     2| Python    |                                                 |
