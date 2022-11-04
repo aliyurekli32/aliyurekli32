@@ -25,7 +25,7 @@
 <details>
 <summary>My Projects</summary>
 
-| Rank | Languages |<details><summary>My Projects</summary>![This is an image](https://imgur.com/a/iSKMbpk)</details>|        
+| Rank | Languages |<details><summary>My Projects</summary>![This is an image](https://imgur.com/a/iSKMbpk.svg)</details>|        
 |-----:|-----------|                                                 |
 |     1| Javascript|                                                 |
 |     2| Python    |                                                 |
