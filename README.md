@@ -25,7 +25,7 @@
 <details>
 <summary>My Projects</summary>
 
-| Rank | Languages |<details><summary>Survey Form Project</summary><img src="https://media.giphy.com/media/IHbPWgjZmXmpmtWmOB/giphy.gif" alt="resim" style="width: 600px; height:600px"></details>|        
+| Rank | Languages |<details><summary>Survey Form Project</summary><img src="https://thumbs.gfycat.com/DeficientOrangeIberianbarbel-size_restricted.gif" alt="resim" ></details>|        
 |-----:|-----------|                                                 |
 |     1| Javascript|                                                 |
 |     2| Python    |                                                 |
