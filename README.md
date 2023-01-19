@@ -1,3 +1,8 @@
+```js script
+// imports need to be at the top;
+// as this md file becomes a js file and need to follow it's rules as well
+import { html } from "lit-html";
+```
 ### Hi there 👋
 
 <h1> I'm a Full Stack Developer 🚀!</h1> <br/>
