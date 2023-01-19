@@ -1,10 +1,4 @@
-```js script
 
-import { html } from "lit-html";
-```
-```js script
-console.log("you got executed from an markdown file");
-```
 ### Hi there 👋
 
 <h1> I'm a Full Stack Developer 🚀!</h1> <br/>
