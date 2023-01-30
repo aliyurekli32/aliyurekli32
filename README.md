@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 
 <h1> I'm a Full Stack Developer 🚀!</h1> <br/>
 <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" style="width: 500px;">
@@ -13,28 +13,8 @@
 <b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling </b>🚴‍♀️<br/><br/>
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vercel,ts,tailwind,styledcomponents,sass,redux,react,py,postgres,nextjs,nodejs,netlify,materialui,matlab,linux,linkedin,jquery,git,firebase,figma,express,emotion,docker,django,bootstrap,)](https://skillicons.dev)
 
-<code> <a href="https://www.atlassian.com/software/jira"> <img alt="Jira" title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" height="42"></a></code>
- <code> <a href=""> <img alt="" title="" src="" height="42"></a></code>
-  <code> <a href="https://jquery.com"> <img alt="Jquerry" title="JQuerry" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" height="42"></a></code>
-  <code> <a href="https://reactjs.org"> <img alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="42"></a></code>
-  <code> <a href="https://firebase.google.com"> <img alt="Firebase" title="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" height="42"></a></code>
-  <code> <a href="https://redux.js.org"> <img alt="Redux" title="Redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="42"></a></code>
-  <code> <a href="https://www.djangoproject.com"> <img alt="Django" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" height="42"></a></code>
-  <code> <a href="https://www.postman.com"> <img alt="postman" title="postman" src="https://api.ipfsbrowser.com/ipfs/get.php?hash=QmQzfaSYrKdQHAAA5Sgp9chaLfgSVqxmiXaKUCgDSF9neq" height="42"></a></code>
- <code> <a href="https://www.python.org"> <img alt="python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"></a></code>
- <code> <a href="https://sass-lang.com"> <img alt="Sass" title="Sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="42"></a></code>
-<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
-<code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
-<code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
-<code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/ECMAScript"><img alt="ECMAScript 11" title="ECMAScript 11" src="https://github.com/cheesits456/cheesits456/raw/master/icons/ecmascript.png" height="42"></a></code>
-<code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://avatars0.githubusercontent.com/u/44036562" height="42"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>
-<code><a href="http://www.json.org"><img alt="JSON" title="JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" height="42"></a></code>
-<code><a href="https://daringfireball.net/projects/markdown"><img alt="Markdown" title="Markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" height="42"></a></code>
-<code><a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a></code>
 <!-- ///////////////////////////* -->
 
 <details>
