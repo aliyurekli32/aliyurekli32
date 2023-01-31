@@ -28,7 +28,13 @@
   
 </details>
 
-
+<div align="center">
+  <br/>
+  <a href="https://reactmoviefree.netlify.app/">
+    <img alt="Click to see the source" height="50" src="movie.png" width="50" />
+  </a>
+  <br/>
+</div>
 
 
 
