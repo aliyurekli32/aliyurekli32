@@ -74,7 +74,7 @@
 					color: red;
 				}
 				p {
-					font-size: 180px;
+					font-size: 120px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
