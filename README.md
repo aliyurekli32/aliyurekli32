@@ -31,7 +31,7 @@
 <div align="center">
   <br/>
   <a href="https://reactmoviefree.netlify.app/">
-    <img alt="Click to see the source" height="300" src="movie.png" width="200" />
+    <img alt="Click to see the source" height="300" src="movie.png" width="300" />
   </a>
   <br/>
 </div>
