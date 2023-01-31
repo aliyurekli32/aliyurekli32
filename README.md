@@ -17,16 +17,7 @@
 
 <!-- ///////////////////////////* -->
 
-<details>
-<summary>My Projects</summary>
 
-| Rank | Languages |<details><summary>Survey Form Project</summary><img src="https://thumbs.gfycat.com/DeficientOrangeIberianbarbel-size_restricted.gif" alt="resim" ></details>|        
-|-----:|-----------|                                                 |
-|     1| Javascript|                                                 |
-|     2| Python    |                                                 |
-
-  
-</details>
 
 <div align="center">
   <br/>
