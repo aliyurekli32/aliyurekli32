@@ -58,7 +58,7 @@
 					text-align: center;
 				}
 				h1 {
-					font-size: 150px;
+					font-size: 100px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
