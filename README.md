@@ -12,7 +12,7 @@
 <b>🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence </b>🤖<br/><br/>
 <b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling </b>🚴‍♀️<br/><br/>
 
-<div height="200" width="800" align="center">
+<div height="100" width="800" align="center">
   <br/>
   <a height="200" width="800" href="https://github.com/aliyurekli32?tab=repositories">
     <img alt="Click to see the source" height="200" src="try.svg" width="800" />
