@@ -24,8 +24,8 @@
   <a href="https://reactmoviefree.netlify.app/">
     <img alt="Click to see the source" height="300" src="movie.png" width="300" />
   </a>
-  <a href="https://reactmoviefree.netlify.app/">
-    <img alt="Click to see the source" height="300" src="movie.png" width="300" />
+  <a href="https://recipeappfree.netlify.app/">
+    <img alt="Click to see the source" height="300" src="food.png" width="300" />
   </a>
   <br/>
 </div>
