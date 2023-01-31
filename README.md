@@ -12,6 +12,13 @@
 <b>🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence </b>🤖<br/><br/>
 <b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling </b>🚴‍♀️<br/><br/>
 
+<div align="center">
+  <br/>
+  <a href="https://github.com/aliyurekli32?tab=repositories">
+    <img alt="Click to see the source" height="100" src="try.svg" width="800" />
+  </a>
+  <br/>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vercel,ts,tailwind,styledcomponents,sass,redux,react,py,postgres,nextjs,nodejs,netlify,materialui,matlab,linux,linkedin,jquery,git,firebase,figma,express,emotion,docker,django,bootstrap,)](https://skillicons.dev)
 
