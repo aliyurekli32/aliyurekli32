@@ -50,7 +50,7 @@
 					margin: 0;
 					width: 800px;
 					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background: linear-gradient(-45deg, #84051e, #041ea2, #036b67);
 					background-size: 1000% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -58,7 +58,7 @@
 					text-align: center;
 				}
 				h1 {
-					font-size: 50px;
+					font-size: 100px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -74,7 +74,7 @@
 					color: red;
 				}
 				p {
-					font-size: 80px;
+					font-size: 180px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
