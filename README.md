@@ -27,6 +27,9 @@
   <a href="https://recipeappfree.netlify.app/">
     <img alt="Click to see the source" height="300" src="food.png" width="300" />
   </a>
+  <a href="https://blog-react-firebase-free.netlify.app/">
+    <img alt="Click to see the source" height="300" src="blog.png" width="300" />
+  </a>
   <br/>
 </div>
 
