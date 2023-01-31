@@ -22,13 +22,13 @@
 <div align="center">
   <br/>
   <a href="https://reactmoviefree.netlify.app/">
-    <img alt="Click to see the source" height="300" src="movie.png" width="300" />
+    <img alt="Click to see the source" height="200" src="movie.png" width="200" />
   </a>
   <a href="https://recipeappfree.netlify.app/">
-    <img alt="Click to see the source" height="300" src="food.png" width="300" />
+    <img alt="Click to see the source" height="200" src="food.png" width="200" />
   </a>
   <a href="https://blog-react-firebase-free.netlify.app/">
-    <img alt="Click to see the source" height="300" src="blog.png" width="300" />
+    <img alt="Click to see the source" height="200" src="blog.png" width="200" />
   </a>
   <br/>
 </div>
