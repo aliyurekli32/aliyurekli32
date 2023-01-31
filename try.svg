@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 400" width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -48,7 +48,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 800px;
+					width: 1200px;
 					height: 400px;
 					background: linear-gradient(-45deg, #84051e, #041ea2, #036b67);
 					background-size: 600% 400%;
