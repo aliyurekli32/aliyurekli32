@@ -48,7 +48,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 100%;
+					width: 800px;
 					height: 400px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
@@ -81,7 +81,7 @@
 			</style>
 			 
 			<div class="container">
-				<h1>Ali YÜREKLİ</h1>
+				<h1>Alİ YÜREKLİ</h1>
 				<p class="hv" >My Skills and Badges</p>
 			</div>
 			
