@@ -15,7 +15,7 @@
 <div align="center">
   <br/>
   <a href="https://github.com/aliyurekli32?tab=repositories">
-    <img alt="Click to see the source" height="100" src="try.svg" width="800" />
+    <img alt="Click to see the source" height="100" src="try.svg" width="1800" />
   </a>
   <br/>
 </div>
