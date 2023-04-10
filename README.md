@@ -10,7 +10,7 @@
 <b>👯 I'm looking to collaborate with other React Native and Flutter developer 👩‍💻 and mobile app designers </b>🎨<br/><br/>
 <b>🤔 I'm looking for help with Flutter front-end developer</b><br/><br/>
 <b>🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning backend and frontend </b>🤖<br/><br/>
-<b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play football  and cycling </b>🚴‍♀️<br/><br/>
+<b>⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, football, watch films  and cycling </b>🚴‍♀️<br/><br/>
 
 <img alt="Click to see the source" height="100" src="try.svg" width="1200" />
 
