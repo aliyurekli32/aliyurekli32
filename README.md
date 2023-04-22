@@ -14,7 +14,7 @@
 
 <img alt="Click to see the source" height="100" src="try.svg" width="1200" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vercel,ts,tailwind,styledcomponents,sass,redux,react,py,postgres,nextjs,nodejs,netlify,materialui,matlab,linux,linkedin,jquery,git,firebase,figma,express,emotion,docker,django,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vercel,ts,tailwind,styledcomponents,sass,redux,react,py,postgres,nextjs,nodejs,netlify,materialui,matlab,linux,linkedin,jquery,git,firebase,figma,express,emotion,docker,django,bootstrap,androidstudio)](https://skillicons.dev)
 
 <!-- ///////////////////////////* -->
 
